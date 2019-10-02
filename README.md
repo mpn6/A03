@@ -45,3 +45,11 @@ Merge Conflict – Occurs when Git does not know how to automatically merge/blen
 Fetch – Gets the most recent changes of the remote repository on GitHub but does not merge it with the repository on your local computer. This allows users to view the new changes and code to compare it to the one stored on their local machine. 
 
 Remote – A repository hosted on a server, like GitHub, where users push and pull new changes to the code. 
+
+
+References
+
+Introduction to Github and Webstorm by Arther H Hendela, Ph.D. Senior University Lecturer, NJIT
+https://help.github.com/en/articles/github-glossary 
+https://www.git-tower.com/learn/git/glossary/remote
+https://www.theserverside.com/video/Git-vs-GitHub-What-is-the-difference-between-them
