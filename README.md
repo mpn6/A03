@@ -1,6 +1,7 @@
 # A03
 
 **Step by Step Tutorial on how to use Git, GitHub, and Webstorm**
+Blah blah
 
 **1**.	Install Git on your local machine which can be downloaded at: https://git-scm.com/downloads
 
